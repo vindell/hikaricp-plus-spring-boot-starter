@@ -1,0 +1,4 @@
+com.zaxxer.hikari.spring.boot.HikaricpAutoConfiguration
+com.zaxxer.hikari.spring.boot.HikaricpWithDropwizardAutoConfiguration
+com.zaxxer.hikari.spring.boot.HikaricpWithOnMicrometerAutoConfiguration
+com.zaxxer.hikari.spring.boot.HikaricpWithOnPrometheusAutoConfiguration
